@@ -1,0 +1,69 @@
+A,Peterborough,A B C D E F G J K M N
+A,Norwich,O P R S T U
+A,Ipswich,V W X Y
+B,Birmingham,A B C D E F G H J K L M N O P R S T U V W X
+B,Reserved for select issue,Y
+C,Cardiff,A B C D E F G H J K L M N O
+C,Swansea,P R S T U V
+C,Bangor,W X Y
+D,Chester,A B C D E F G H J K
+D,Shrewsbury,L M N O P S T U V W X Y
+D,Reserved for select issue,R
+E,Chelmsford,A B C E F G J K L M N O P R S T U V W X Y
+E,Reserved for select issue,D H
+F,Nottingham,A B C D E F G H J K L M N P
+F,Nottingham,Banned and not issued,O U
+F,Lincoln,R S T V W X Y
+G,Maidstone,A B C D E F G H J K L M N
+G,Reserved for select issue,O
+G,Brighton,P R S T U V W X Y
+H,Bournemouth,A B C D E F G H J
+H,Portsmouth,K L M N P R S T U V X Y
+H,Reserved for select issue,O
+H,Reserved for the Isle of Wight,W
+K,Borehamwood (formerly Luton),A B C D E F G H J K L
+K,Northampton,M N O P R S T U V W X Y
+L,Wimbledon,A B C D E F G H J
+L,Borehamwood (formerly Stanmore),K L M N O P R S T
+L,Sidcup,U V W X Y
+M,Manchester,A B C D E F G H J K L M P T U V W X
+M,Reserved for the Isle of Man,N
+M,Reserved for select issue,O R S Y
+N,Newcastle,A B C D E G H J K L M N O
+N,Stockton,P R S T U V W X Y
+N,Not issued,F
+O,Oxford,A B C D E F G H J L M O P T U V W X Y
+O,Reserved for select issue,K N R S
+P,Preston,A B C D E F G H J K L M N O P R S T
+P,Carlisle,U V W X Y
+R,Reading,A B C D E F G H J K L M N O P R S T V W X Y
+R,Reserved for select issue,U
+S,Glasgow,A B C D E F G H J
+S,Edinburgh,K L M N O
+S,Dundee,P R S T
+S,Reserved for select issue,U
+S,Aberdeen,V W
+S,Inverness,X Y
+V,Worcester,A B C E F G H J K L M N O P R S T U V X Y
+V,Reserved for select issue,D W
+W,Exeter,A B D E F G H J
+W,Reserved for select issue,C
+W,Truro,K L
+W,Bristol,M N O P R S T U V W X Y
+X,Beverley,A B C D E F
+X,Birmingham,A B C D E F
+X,Bristol,A B C D E F
+X,Chelmsford,A B C D E F
+X,Glasgow,A B C D E F
+X,Leeds,A B C D E F
+X,Lincoln,A B C D E F
+X,Maidstone,A B C D E F
+X,Manchester,A B C D E F
+X,Northampton,A B C D E F
+X,Norwich,A B C D E F
+X,Oxford,A B C D E F
+X,Stockton,A B C D E F
+X,Wimbledon,A B C D E F
+Y,Leeds,A B C D E F G H J K L
+Y,Sheffield,M N O P R S T U V
+Y,Beverley,W X Y
